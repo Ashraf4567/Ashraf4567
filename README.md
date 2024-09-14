@@ -24,7 +24,7 @@ I'm an enthusiastic **Android Developer** with a passion for creating awesome mo
 
 ## 🌟 Projects
 
-### [🛒 [E-commerce](https://github.com/Ashraf4567/e-commerce](https://github.com/Ashraf4567/E-commerce-compose-))
+### [🛒 [E-commerce](https://github.com/Ashraf4567/E-commerce-compose-)
 A robust e-commerce app with all the bells and whistles: user accounts, API integration, product browsing, Wishlist, and cart management. Designed with clean architecture for scalability and maintainability.
 
 **Tech Stack:** MVVM, Retrofit, Hilt, Repository Pattern, Kotlin Coroutines, Git, Modularization
