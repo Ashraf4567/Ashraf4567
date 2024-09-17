@@ -29,7 +29,7 @@ A robust e-commerce app with all the bells and whistles: user accounts, API inte
 
 **Tech Stack:** MVVM, Retrofit, Hilt, Repository Pattern, Kotlin Coroutines, Git, Modularization
 
-### [📓 Diary App](https://github.com/Ashraf4567/To-Do-App)
+### [📓 Diary App](https://github.com/Ashraf4567/Diary-App)
 An app to store your daily diaries with mood selection, titles, descriptions, and photo attachments. Keep your memories safe and organized!
 
 ### [📰 News App](https://github.com/Ashraf4567/News-App)
